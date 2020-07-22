@@ -1,4 +1,4 @@
 # AWS
-Repositorio que contiene proyectos de AWS
+Repositorio que contiene proyectos personales en C#
 
-* ECOM.AWS.ServiceOrderApi - Lambda de AWS en C# que retorna el estatus de una orden
+* Sydn.CRUD.WindowsForms - CRUD con Windows Forms en C#, Modelo 3 capas, ADO.NET, SQL Server
